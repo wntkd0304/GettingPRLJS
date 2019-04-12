@@ -10,6 +10,7 @@ void sub3(){
 }
 
 void sub4(){
+	printf("Lee, Jusang\n");
 }
 
 int main(){
