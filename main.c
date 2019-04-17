@@ -4,6 +4,7 @@ void sub1(){
 }
 
 void sub2(){
+  printf("SilverJun\n");
 }
 
 void sub3(){
